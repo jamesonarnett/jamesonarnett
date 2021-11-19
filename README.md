@@ -1,18 +1,10 @@
-Hello wave, I'm Jameson Arnett
+Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Jameson Arnett
 
-    man_technologist Check out my portfolio at http://ajameson.com/
+Check out my portfolio at http://ajameson.com/
 
-    telescope I’m currently working on interviewing and starting my career in tech!
+I’m currently working on interviewing and starting my career in tech!
 
-    seedling My skills include: Javascript, Express, Node, MongoDB, HTML, CSS
+Follow me on my journey! You can find me on [![Twitter][1.2]][1]
 
-    mailbox How to reach me: jamesonarnett5555@gmail.com
-
-    computer Follow me on my journey!!
-
-Connect with me:
-
-https://twitter.com/Lil_LetDown
-Languages and Tools:
-
-css3 express heroku html5 javascript mongodb nodejs react 
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://twitter.com/Lil_LetDown
