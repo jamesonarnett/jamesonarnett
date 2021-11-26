@@ -1,10 +1,10 @@
 Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  I'm Jameson Arnett
 
-Check out my portfolio at http://ajameson.com/
-
 I’m currently working on interviewing and starting my career in tech!
 
-Follow me on my journey! You can find me on [![Twitter][1.2]][1]
+Check out my portfolio at http://ajameson.com/
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+Always looking for something new to learn! Find me on [![Twitter][1.2]][1]
+
+[1.2]: https://i.imgur.com/kgZriRn.png (Twitter!)
 [1]: https://twitter.com/Lil_LetDown
