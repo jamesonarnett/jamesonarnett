@@ -2,7 +2,8 @@
 <h3 align="center">An ambitious CS student/developer from Louisiana, currently working on interviewing and starting my career in tech!</h3>
 <hr>
 
-<h3>Check out my portfolio at http://ajameson.com/</h3>
+<h3>Check out my portfolio at <a href="http://ajameson.com">Ajameson.com</a></h3>
+<h3>Or one of my favorite projects so far <a href="https://jamgamejam.herokuapp.com/index.html">JamGameJam</a></h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lil_letdown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lil_letdown" height="30" width="40" /></a>
