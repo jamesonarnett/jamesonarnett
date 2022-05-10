@@ -1,5 +1,5 @@
 <h1 align="center">Jameson Arnett</h1>
-<h3 align="center">An ambitious CS student/developer from Louisiana, currently working on interviewing and starting my career in tech!</h3>
+<h3 align="center">An ambitious CS student/developer from Louisiana, currently interning at <a href="https://www.speareducation.com/"> Spear Education </a> with a focus on frontend web development!</h3>
 <hr>
 
 <h3>Check out my portfolio at <a href="http://ajameson.com">Ajameson.com</a></h3>
