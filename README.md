@@ -2,7 +2,7 @@
 <h3 align="center">An ambitious CS student/developer from Louisiana, currently a Web Developer Intern at <a href="https://www.speareducation.com/"> Spear Education!</a></h3>
 <hr>
 
-<h3>Check out my portfolio at <a href="http://ajameson.com">Ajameson.com</a></h3>
+<h3>Check out my portfolio at: <a href="http://ajameson.com">Ajameson.com</a></h3>
 <h3>A project I am working on now: <a href="https://jamesonarnett.github.io/terminal/">jShell || terminal</a></h3>
 <h3>Or, maybe even one of my first: <a href="https://jamgamejam.herokuapp.com/index.html">JamGameJam</a></h3>
 
