@@ -3,7 +3,9 @@
 <hr>
 
 <h3>Check out my portfolio at <a href="http://ajameson.com">Ajameson.com</a></h3>
-<h3>Or one of my favorite projects so far <a href="https://jamgamejam.herokuapp.com/index.html">JamGameJam</a></h3>
+<h3>A project I am working on now: <a href="https://jamesonarnett.github.io/terminal/">jShell || terminal</a></h3>
+<h3>Or, maybe even one of my first: <a href="https://jamgamejam.herokuapp.com/index.html">JamGameJam</a></h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lil_letdown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lil_letdown" height="30" width="40" /></a>
