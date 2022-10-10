@@ -3,7 +3,7 @@
 <hr>
 
 <h3>Check out my portfolio at: <a href="http://ajameson.dev">Ajameson.dev</a></h3>
-<h3>An exciting new project in progress: <a href="https://github.com/jamesonarnett/soundseeker">soundseeker</a></h3>
+<!--<h3>An exciting new project in progress: <a href="https://github.com/jamesonarnett/soundseeker">soundseeker</a></h3>-->
 <h3>What I've been learning most recently: <a href="https://github.com/jamesonarnett/spring5WebApp">Spring 5</a></h3>
 
 
