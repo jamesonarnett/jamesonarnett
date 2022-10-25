@@ -4,8 +4,8 @@ Currently working with the awesome folks @<a href="https://snazzycraftwork.com/"
 <hr>
 
 <h3>Check out my portfolio at: <a href="http://ajameson.dev">Ajameson.dev</a></h3>
-<h3>An exciting new project in progress: <a href="https://github.com/jamesonarnett/islandadventure">IslandAdventure</a></h3>
-<!--<h3>What I've been learning most recently: <a href="https://github.com/jamesonarnett/spring5WebApp">Spring 5</a></h3>-->
+<h3>My latest completed project: <a href="https://github.com/jamesonarnett/islandadventure">IslandAdventure</a></h3>
+<h3>New game ProtoCity: coming soon!</h3
 
 
 <h3 align="left">Connect with me:</h3>
