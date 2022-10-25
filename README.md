@@ -1,5 +1,6 @@
 <h1 align="center">Jameson Arnett</h1>
-<h3 align="center">An ambitious CS student and developer from Louisiana.</h3>
+<h3 align="center">An ambitious CS student and developer from Louisiana.<br/>
+Currently working with the awesome folks @<a href="https://snazzycraftwork.com/">Snazzy Craftwork</a></h3>
 <hr>
 
 <h3>Check out my portfolio at: <a href="http://ajameson.dev">Ajameson.dev</a></h3>
