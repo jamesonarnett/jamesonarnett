@@ -4,7 +4,7 @@ Currently working with the awesome folks @<a href="https://snazzycraftwork.com/"
 <hr>
 
 <h3>Check out my portfolio at: <a href="http://ajameson.dev">Ajameson.dev</a></h3>
-<h3>My latest completed project: <a href="https://github.com/jamesonarnett/islandadventure">IslandAdventure</a></h3>
+<h3>My latest testable project: <a href="https://jamesonarnett.github.io/IslandAdventure/">IslandAdventure</a></h3>
 <h3>New game ProtoCity: coming soon!</h3
 
 
