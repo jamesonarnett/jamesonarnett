@@ -3,7 +3,6 @@
 <hr>
 
 <h3>Check out my portfolio at: <a href="http://ajameson.dev">ajameson.dev</a></h3>
-<h3>My latest testable project: <a href="https://crowdcash.ajameson.dev/">Crowd Cash</a></h3>
 
 
 <h3 align="left">Connect with me:</h3>
